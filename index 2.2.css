@@ -1,0 +1,44 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	}
+div{
+	padding: 10px;
+	line-height: 25px;
+	display: block;
+}
+#header{
+	background-color: #EAEAEA;
+}
+#contentcol{
+	padding-top: 0px;
+	margin-left: 1px;
+}
+#leftcol{
+	background-color: #C8FC98; 
+	width: 25%; 
+	padding-top: 0px; 
+	margin-right: 5px;
+	float: left;
+}
+#rightcol{
+	background-color: #FDE95E;
+	width: 200px; 
+	padding-top: 0px; 
+	margin-left: 5px;
+	float: right;
+}
+#footer{
+	background-color: black;
+	clear: both;
+	padding: 0px;
+}
+p
+{
+	text-align: center;
+	margin: 0px;
+}
+a
+{ 
+	color: yellow;
+}

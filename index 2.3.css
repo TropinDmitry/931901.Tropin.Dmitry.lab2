@@ -1,0 +1,17 @@
+body
+{
+	padding: 0px;
+}
+div{
+	background-color: blue;
+	padding: 0px;
+	margin: 0 auto;
+	width: 500px;
+	line-height: 15px;
+	overflow: auto;
+}
+small{
+	margin: 0px;
+	padding: 0px;
+	
+}

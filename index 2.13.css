@@ -1,0 +1,64 @@
+.main
+{
+	margin:0px;
+	padding: 0px;
+	border: 1px solid green;
+	box-sizing: border-box;
+	background-color: aqua;
+	overflow: auto;
+	font-size: 0.95em;
+}
+
+ul
+{
+	margin: 0px auto;
+	padding-left: 25px;
+}
+
+.words
+{
+	height: 55px;
+    width: 370px;
+	background-color: bisque;
+	margin: 0px;
+	padding: 15px;
+	float: left
+}
+.dark 
+{
+	margin-left: 400px;
+	background-color: darkgray;
+	
+}
+.text
+{
+	clear: right;
+}
+
+.image
+{
+	float: right;
+	width: 600px;
+	max-width: 50%;
+}
+
+@media screen and (max-width: 700px) {
+    .dark {
+		margin-left: 120px;
+    }
+
+    .words {
+        width: 90px;
+		height: 55px;
+		padding: 15px;
+		background-color: bisque;
+		margin: 0px;
+    }
+	.image{
+		width: 150px;
+	}
+}
+p
+{
+	margin: 0px;
+}

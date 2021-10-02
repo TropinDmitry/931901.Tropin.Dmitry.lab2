@@ -1,0 +1,25 @@
+body
+{
+	padding: 0px;
+}
+div{
+	
+	max-width: 500px;
+	line-height: 15px;
+}
+small{
+	margin: 0px;
+	padding: 0px;
+	color: white;
+}
+#green{
+	padding: 0px;
+	margin: 10px auto;
+	background-color: green;
+}
+#blue{
+	padding: 40px;
+	margin: 0px auto;
+	border: 1px;
+	background-color: blue;
+}

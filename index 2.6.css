@@ -1,0 +1,23 @@
+body
+{
+	padding: 0px;
+}
+div{
+	
+	max-width: 410px;
+	line-height: 15px;
+	box-sizing: border-box;
+}
+small{
+	margin: 0px;
+	padding: 0px;
+}
+#white{
+	padding: 0px;
+	margin: 15px auto;
+}
+#border{
+	padding: 38px;
+	margin: 0px auto;
+	border: 10px solid blue;
+}

@@ -1,0 +1,55 @@
+.main
+{
+	margin:0px;
+	padding: 0px;
+	border: 1px solid green;
+	box-sizing: border-box;
+	background-color: aqua;
+	overflow: auto;
+	font-size: 0.95em;
+}
+
+ul
+{
+	margin: 0px auto;
+	padding-left: 25px;
+}
+
+.words
+{
+	height: 55px;
+    width: 400px;
+	background-color: bisque;
+	margin: 0px;
+	padding: 15px;
+	float: left
+}
+.dark 
+{
+	margin-left: 435px;
+	background-color: darkgray;
+	margin-right: 5px;
+	
+}
+
+@media screen and (max-width: 800px) {
+    .dark {
+        clear: left;
+		float: left;
+		margin: 0px;
+        width: 344px;
+    }
+
+    .words {
+        width: 80px;
+		height: 50px;
+		padding: 15px;
+		float: left;
+		background-color: bisque;
+		margin: 0px;
+    }
+}
+p
+{
+	margin: 0px;
+}

@@ -1,0 +1,18 @@
+#float{
+	width: 170px;
+	height: 80px;
+	background-color: aquamarine;
+	margin: 10px;
+	padding: 0px;
+	float: left;
+	line-height: 15px;
+}
+
+#line
+{
+	clear: both;
+	background-color: bisque;
+	margin: 0px;
+	padding: 0px;
+	line-height: 15px;
+}

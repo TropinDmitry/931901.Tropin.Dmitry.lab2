@@ -1,0 +1,42 @@
+div
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: aqua;
+	font-size: 0.95em;
+}
+
+#words
+{
+	height: 55px;
+    width: 170px;
+	background-color: bisque;
+	margin: 0px;
+	padding: 15px;
+	float: left;
+}
+ul
+{
+	margin: 0px auto;
+	padding-left: 25px;
+}
+#dark
+{
+	background-color: darkgray;
+	margin-left: 200px;
+}
+#footer
+{
+	position: fixed;
+	height: 70px;
+	width: 100%;
+	background-color: limegreen;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+p
+{
+	margin: 0px;
+	padding: 0px;
+}

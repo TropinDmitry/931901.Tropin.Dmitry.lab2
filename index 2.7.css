@@ -1,0 +1,53 @@
+
+#static{
+	position: static;
+	width: 130px;
+	height: 90px;
+	background-color: blueviolet;
+}
+#relative1
+{
+	position: relative;
+	width: 130px;
+	height: 80px;
+	background-color: darkred;
+}
+#relative2
+{
+	position: relative;
+	width: 130px;
+	height: 80px;
+	background-color: peru;
+	top: -25px;
+	right: -25px;
+}
+#relative3
+{
+	position: relative;
+	width: 600px;
+	height: 400px;
+	background-color: indianred;
+}
+#absolute
+{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	background-color: indigo;
+	right: 0px;
+	top: 120px;
+}
+#fixed{
+	position: fixed;
+	display: inline-block;
+	height: 100px;
+	background-color: green;
+	bottom: 0px;
+	right: 0px;
+	z-index: -1;
+}
+p
+{
+	margin: 0px;
+	color: white;
+}

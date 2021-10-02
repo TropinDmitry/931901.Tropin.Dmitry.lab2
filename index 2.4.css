@@ -1,0 +1,16 @@
+body
+{
+	padding: 0px;
+}
+div{
+	background-color: blue;
+	padding: 0px;
+	margin: 8px auto;
+	max-width: 500px;
+	line-height: 15px;
+}
+small{
+	margin: 0px;
+	padding: 0px;
+	
+}
